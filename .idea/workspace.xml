@@ -49,6 +49,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e33fec9e-f62c-45da-bbad-ae90b5de505f" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -114,7 +117,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,18 +163,26 @@
       <updated>1556840243171</updated>
       <workItem from="1556840246253" duration="84000" />
       <workItem from="1556840366752" duration="515000" />
-      <workItem from="1556840892818" duration="1977000" />
+      <workItem from="1556840892818" duration="2584000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit For Kotlin practice">
+      <created>1556843117235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556843117235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2576000" />
+    <option name="totallyTimeSpent" value="3183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6000" y="0" width="1440" height="2560" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14727011" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14727011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -181,7 +192,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33042032" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33042032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,6 +215,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit For Kotlin practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit For Kotlin practice" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kotlin_project.iml">
